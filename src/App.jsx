@@ -62,7 +62,7 @@ function App() {
           <Movies
             movies={movies}
             handleFavouritesClick={addfavourateMovies}
-            // favouriteComponent={Addfavourate}
+            favouriteComponent={Addfavourate}
           />
         </div>
       </div>

@@ -12,6 +12,7 @@ h1 {
   text-align: center;
   align-items: center;
   padding: 0 2rem;
+  position: relative;
   background: color-mix(in srgb, coral, transparent 70%);
 }
 .form-control {
